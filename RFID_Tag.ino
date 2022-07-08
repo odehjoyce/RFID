@@ -92,7 +92,7 @@ void readCard()
   {
     lcd.clear();
     lcd.setCursor(0,0);
-    lcd.print("WELCOME JOYCE");
+    lcd.print("WELCOME ****");
     delay(1000);
     lcd.clear();    
   } 
